@@ -27,8 +27,8 @@
     * ### **103.4**: *[Fluxos, Pipes (Canalização) e Redirecionamento de Saída](101-500/103/103.4.md)* 
     * ### **103.5**: *[Criar, Monitorar e Finalizar Processos](101-500/103/103.5.md)* 
     * ### **103.6**: *[Modificar a Prioridade de Execução de um Processo](101-500/103/103.6.md)* 
-    * ### **103.7**: *[Procurar em Arquicos de Testo Usando Expressões Regulares](101-500/103/103.7.md)* 
-    * ### **103.8**: *[Edição Básica de Arquicos com o Vi](101-500/103/103.8.md)* 
+    * ### **103.7**: *[Procurar em Arquivos de Texto Usando Expressões Regulares](101-500/103/103.7.md)* 
+    * ### **103.8**: *[Edição Básica de Arquivos com o Vi](101-500/103/103.8.md)* 
 * ### Tópico **104**: *[Dispositivos, Sistemas de Arquivos e FHS](101-500/104.md)*
     * ### **104.1**: *[Crirar Partições e Sistema de Arquivos](101-500/104/104.1.md)* 
     * ### **104.2**: *[Manutenção da Integridade de Sistemas de Arquivos](101-500/104/104.2.md)* 
